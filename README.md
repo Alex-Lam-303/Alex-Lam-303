@@ -1,4 +1,4 @@
-### Hi! I'm Alex! 
+### 👋 Hi! I'm Alex! 
 
 I'm full stack web/app developer and Masters Data Science Student at UC Berkeley.
 
