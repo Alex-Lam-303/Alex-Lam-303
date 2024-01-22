@@ -2,7 +2,7 @@
 
 I'm full stack web/app developer and Masters Data Science Student at UC Berkeley.
 
-I have Software Engineering and Data Science experience over several fields, from LLMs, Fundraising, Marketing Analytics, and Finance.
+I have Software Engineering and Data Science experience & interests over several fields, from LLMs, Fundraising, Marketing Analytics, and Finance.
 
 I'm currently a few projects, including:
 - Customizing Langchain Chat GPT bot that supports retreival from a vector database.
@@ -10,10 +10,10 @@ I'm currently a few projects, including:
 - Optimizing a DFS Sportsbook picker to find high value prop bets
 
 ### LANGUAGES
-PYTHON / JAVASCRIPT / JAVA / C++ / HTML / CSS / SQL / R / TYPESCRIPT / VBA /
+PYTHON / JAVASCRIPT / TYPESCRIPT / JAVA / C++ / HTML / CSS / SQL / R / VBA /
 
 ### TECHNOLOGIES/FRAMEWORKS
-REACT / FLASK / LANGCHAIN / NODEJS / EXPRESS / REDUX / MONGODB / AGILE / AJAX / POSTGRESQL / HEROKU / GOOGLE CLOUD PLATFORM (GCP) / GRAFANA / PANDAS / NUMPY / GIT / JIRA / REST APIS
+REACT / REDUX / FLASK / DJANGO / NODEJS / EXPRESS / REACT NATIVE / FLUTTER / MONGODB / POSTGRESQL / FAST API / AJAX / REST APIS / AMAZON WEB SERVICES (AWS) / GOOGLE CLOUD PLATFORM (GCP) / HEROKU / DOCKER / HADOOP / MAPREDUCE / SPARK / PANDAS / TENSORFLOW / SCIKIT-LEARN / GRAFANA / AGILE / GIT / JIRA / LANGCHAIN
 
 ####
 <a href="https://www.facebook.com/alexander.lam.54" target="_blank"><img src="https://raw.githubusercontent.com/Alex-Lam-303/Alex-Lam-303/main/facebook.png" alt="Facebook" width="30"></a>
