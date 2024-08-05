@@ -7,7 +7,7 @@ I have Software Engineering and Data Science experience & interests over several
 I'm currently a few projects, including:
 - Customizing Langchain Chat GPT bot that supports retreival from a vector database.
 - Developing a mobile app that connects apartments and food vendors
-- Optimizing a DFS Sportsbook picker to find high value prop bets
+- Optimizing a DFS Sportsbook picker to find high value prop bets (www.poddsitive.com)
 
 ### LANGUAGES
 PYTHON / JAVASCRIPT / TYPESCRIPT / JAVA / C++ / HTML / CSS / SQL / R / VBA /
