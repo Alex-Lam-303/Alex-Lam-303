@@ -5,7 +5,7 @@ I'm full stack web/app developer and Masters Data Science Student at UC Berkeley
 I have Software Engineering and Data Science experience & interests over several fields, from LLMs, Fundraising, Marketing Analytics, and Finance.
 
 I'm currently a few projects, including:
-- Customizing Langchain Chat GPT bot that supports retreival from a vector database.
+- Customizing LangGraph GPT bot with RAG, web search tools, and control over application functions.
 - Developing a mobile app that connects apartments and food vendors
 - Optimizing a DFS Sportsbook picker to find high value prop bets (www.poddsitive.com)
 
